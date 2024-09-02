@@ -15,7 +15,7 @@ A bash script that creates a python script inserted in your repo's folder, that 
 ./repoRemove.sh 
 ```
 
-## In case it doesnt run...
+## In case it doesn't run...
 
 * Extract the tar.gz file
 
