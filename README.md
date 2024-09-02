@@ -28,3 +28,18 @@ tar -xzvf repo_remover_script.tar.gz
 ```
 ./repoRemove.sh 
 ```
+
+## To use the remover script...
+
+* Go to your repos folder
+
+```
+cd ~/repos
+```
+
+* Run the python script (Autoexecutable if installed from repoRemove.sh)
+
+```
+./repoRemover.py 
+```
+
